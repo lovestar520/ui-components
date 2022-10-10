@@ -1,0 +1,24 @@
+{
+  "name": "htl-ctrip-ui-swiper",
+  "version": "1.0.0",
+  "author": "NIHX",
+  "description": "swiper ui for web page",
+  "main": "src/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": ""
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-spring": "^9.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "@use-gesture/react": "^10.2.12"
+  },
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
